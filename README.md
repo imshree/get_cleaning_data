@@ -28,3 +28,10 @@ Good luck!
 
 * CodeBook.md: it is a brief explanation of data stored in tidy_data.txt
 
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+
+=======
+>>>>>>> FETCH_HEAD
+>>>>>>> Stashed changes
